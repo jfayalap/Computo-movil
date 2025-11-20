@@ -104,6 +104,6 @@ Este repositorio documenta mi aprendizaje y desarrollo de aplicaciones móviles 
 
 ## 🔗 Proyectos relacionados
 
-- [⚙️ Sistemas Distribuidos – Validación de pipelines y performance en la nube](https://github.com/jfayalap/Sistemas-Distribuidos)
+- [⚙️ Sistemas Distribuidos – Validación de pipelines y performance en la nube](https://jfayalap.github.io/Sistemas-Distribuidos/)
 
 ---
