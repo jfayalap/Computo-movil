@@ -10,7 +10,7 @@ Este repositorio documenta mi aprendizaje y desarrollo de aplicaciones móviles 
 
 | Unidad | Actividad | Descripción |
 |--------|-----------|-------------|
-| U2 A2 | [Ambiente de programación y programación inicial](#u2-a2-ambiente-de-programación-y-programación-inicial) | Configuración de Xcode, Storyboard y lógica básica |
+| U2 A2 | [Ambiente de programación y programación inicial](calculadora.swift) | Configuración de Xcode, Storyboard y lógica básica |
 | U2 A3 | [Programación intermedia y avanzada](#u2-a3-programación-intermedia-y-avanzada) | Manejo de eventos, lógica condicional y estructuras |
 | U3 A2 | [Ambiente y programación inicial](#u3-a2-ambiente-y-programación-inicial) | Diseño de interfaz y conexión con controladores |
 | U3 A3 | [Programación intermedia y avanzada](#u3-a3-programación-intermedia-y-avanzada) | Validación de entradas, navegación entre vistas |
